@@ -60,4 +60,4 @@ AzureRTOS_TAD_logs/
 ZephyrRTOS_TAD_logs/
 .mcuxpressoide*/
 language.settings.xml
-
+doc/
